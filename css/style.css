@@ -4,21 +4,24 @@
 }
 
 body {
-    background: red;
+    background: white;
     margin: 2em;
 }
 
+/* opreating button */
 .controls {
     text-align: center;
     margin: 0 auto 1em;
 }
 
+/* set css for every opreating elements container */
 .pizza-list {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
+/* set css for every opreating element */
 .pizza {
     background: #FFDC00;
     border-radius: 50%;
@@ -29,6 +32,7 @@ body {
     margin: .5em;
 }
 
+/* set css for every opreation */
 .remove-pizza {
     background: #000;
     color: #FFF;
